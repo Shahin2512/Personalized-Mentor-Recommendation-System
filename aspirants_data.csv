@@ -1,0 +1,11 @@
+aspirant_id,preferred_subjects,target_colleges,current_level,learning_style
+1,"['Legal', 'English', 'Logical']",['NLSIU Bangalore'],Intermediate,Auditory
+2,"['Math', 'Legal', 'English']","['NALSAR', 'NLU Delhi']",Beginner,Reading/Writing
+3,"['GK', 'Legal']",['NLU Kolkata'],Beginner,Visual
+4,"['Logical', 'Legal', 'English']",['NLSIU Bangalore'],Advanced,Kinesthetic
+5,"['GK', 'English', 'Logical']","['NLSIU Bangalore', 'NLU Kolkata']",Advanced,Reading/Writing
+6,"['English', 'Logical']","['NLU Delhi', 'NLSIU Bangalore']",Beginner,Visual
+7,"['Legal', 'GK']",['NLU Delhi'],Beginner,Visual
+8,['Legal'],['NLU Jodhpur'],Beginner,Auditory
+9,"['Logical', 'GK']",['NLU Kolkata'],Advanced,Kinesthetic
+10,['Logical'],"['NLSIU Bangalore', 'NLU Delhi']",Beginner,Kinesthetic

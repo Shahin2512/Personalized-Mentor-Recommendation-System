@@ -1,0 +1,21 @@
+mentor_id,name,preferred_subjects,target_colleges,learning_style
+1,Mentor A,"['Legal', 'Math', 'English']","['NLSIU Bangalore', 'NLU Kolkata']",Auditory
+2,Mentor B,"['Legal', 'Math', 'English']","['NLU Delhi', 'NLU Kolkata']",Visual
+3,Mentor C,['GK'],['NLU Kolkata'],Auditory
+4,Mentor D,"['Math', 'Logical', 'Legal']","['NLU Kolkata', 'NLU Jodhpur']",Visual
+5,Mentor E,['Logical'],"['NLU Jodhpur', 'NLSIU Bangalore']",Auditory
+6,Mentor F,"['Legal', 'Math']","['NLU Delhi', 'NLU Jodhpur']",Reading/Writing
+7,Mentor G,"['English', 'Legal', 'Math']","['NLU Kolkata', 'NLU Delhi']",Kinesthetic
+8,Mentor H,['Math'],"['NLU Kolkata', 'NLU Jodhpur']",Auditory
+9,Mentor I,"['Legal', 'Math', 'English']",['NLU Jodhpur'],Visual
+10,Mentor J,['Legal'],"['NLU Jodhpur', 'NALSAR']",Reading/Writing
+11,Mentor K,['English'],"['NLSIU Bangalore', 'NLU Jodhpur']",Visual
+12,Mentor L,"['GK', 'Math', 'Legal']","['NALSAR', 'NLU Jodhpur']",Auditory
+13,Mentor M,"['English', 'Legal', 'Logical']",['NLU Jodhpur'],Kinesthetic
+14,Mentor N,"['Legal', 'GK']","['NLSIU Bangalore', 'NALSAR']",Kinesthetic
+15,Mentor O,"['Logical', 'GK', 'Math']",['NLSIU Bangalore'],Reading/Writing
+16,Mentor P,"['Math', 'Logical', 'English']","['NLU Jodhpur', 'NLSIU Bangalore']",Auditory
+17,Mentor Q,"['Logical', 'Legal', 'Math']",['NLSIU Bangalore'],Auditory
+18,Mentor R,"['Logical', 'Legal', 'GK']","['NLU Kolkata', 'NALSAR']",Reading/Writing
+19,Mentor S,"['Legal', 'Math', 'English']","['NLU Jodhpur', 'NLU Delhi']",Reading/Writing
+20,Mentor T,"['GK', 'Logical']",['NLU Jodhpur'],Auditory
